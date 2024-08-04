@@ -217,3 +217,6 @@
 //----------------------------------------
 let arr = [101,102,103,104,105];
 arr.map(id=>console.log('Student: '+ id));
+
+// Map on Objects
+
