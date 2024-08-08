@@ -65,12 +65,12 @@
 
 
 // Apply Filtering on JS CODE
-let content = document.querySelector('#wrapper');
-content.addEventListener('click',function(event)
-{
-    if(event.target.nodeName==='SPAN')
-    {
-   console.log('Span pr click kiya h'+ event.target.textContent);
-    }
-})
+// let content = document.querySelector('#wrapper');
+// content.addEventListener('click',function(event)
+// {
+//     if(event.target.nodeName==='SPAN')
+//     {
+//    console.log('Span pr click kiya h'+ event.target.textContent);
+//     }
+// })
 
